@@ -1,0 +1,5 @@
+name: PartyFriendsAndGuilds
+main: me.classy.pfag.PartyFriendsAndGuilds
+authors: [ClassyCoder, GinaFro, DevManglam]
+version: 0.1
+api-version: 1.8.8
